@@ -1,0 +1,3 @@
+  adding: maillisttest (deflated 41%)
+614.52user 20.07system 10:36.02elapsed 99%CPU (0avgtext+0avgdata 2740maxresident)k
+30532768inputs+18079384outputs (0major+1302minor)pagefaults 0swaps

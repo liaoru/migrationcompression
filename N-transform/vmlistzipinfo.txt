@@ -1,0 +1,3 @@
+  adding: vmlisttest (deflated 65%)
+566.36user 15.85system 9:44.37elapsed 99%CPU (0avgtext+0avgdata 2652maxresident)k
+40137376inputs+14243008outputs (1major+972minor)pagefaults 0swaps

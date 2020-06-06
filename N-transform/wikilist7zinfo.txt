@@ -1,0 +1,17 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,64 CPUs Intel(R) Xeon(R) Gold 6130 CPU @ 2.10GHz (50654),ASM,AES-NI)
+
+Scanning the drive:
+1 file, 22559258624 bytes (22 GiB)
+
+Creating archive: wikilist7z.7z
+
+Items to compress: 1
+
+
+Files read from disk: 1
+Archive size: 1495556250 bytes (1427 MiB)
+Everything is Ok
+7133.83user 127.35system 3:18.03elapsed 3666%CPU (0avgtext+0avgdata 7688520maxresident)k
+44061064inputs+2921112outputs (0major+24028403minor)pagefaults 0swaps

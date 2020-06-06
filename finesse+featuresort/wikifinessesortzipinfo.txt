@@ -1,0 +1,3 @@
+  adding: wikifinessesorttest (deflated 87%)
+392.92user 10.22system 6:50.66elapsed 98%CPU (0avgtext+0avgdata 2644maxresident)k
+44061056inputs+5826824outputs (0major+853minor)pagefaults 0swaps

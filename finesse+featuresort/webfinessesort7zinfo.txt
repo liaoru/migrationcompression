@@ -1,0 +1,17 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,64 CPUs Intel(R) Xeon(R) Gold 6130 CPU @ 2.10GHz (50654),ASM,AES-NI)
+
+Scanning the drive:
+1 file, 2922229760 bytes (2787 MiB)
+
+Creating archive: webfinessesort7z.7z
+
+Items to compress: 1
+
+
+Files read from disk: 1
+Archive size: 117647084 bytes (113 MiB)
+Everything is Ok
+520.68user 21.46system 0:23.77elapsed 2280%CPU (0avgtext+0avgdata 7597240maxresident)k
+96inputs+229808outputs (0major+4585369minor)pagefaults 0swaps

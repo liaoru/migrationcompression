@@ -1,0 +1,3 @@
+  adding: vmfinessetest (deflated 64%)
+559.70user 10.92system 9:33.31elapsed 99%CPU (0avgtext+0avgdata 2748maxresident)k
+40137384inputs+14390672outputs (1major+3477minor)pagefaults 0swaps
